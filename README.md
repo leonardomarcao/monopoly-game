@@ -7,9 +7,10 @@
 
 * [Game](#game)
   * [Rules](#rules)
-  * [Player](#player)
+  * [Player](#players)
+* [Usage](#usage-how-its-work)
 * [Output](#output)
-* [Usage](#usage)
+
 
 ## Game
 ### Rules
